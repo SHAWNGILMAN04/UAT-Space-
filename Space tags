@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>UAT Space Program</title>
+</head>
+<body>
+    <h1>UAT space Program</h1>
+    
+    <img src="UatSpaceLogo.jpg">
+    
+    <p>
+        This is a paragraph tag.
+    </p>
+    
+    <button onclick="alert('You just pushed the button.');">Click Me</button>
+    <br>
+    <br>
+    <button>Start</button>
+    <button>Stop</button>
